@@ -1,5 +1,5 @@
 # This is my calucaltor project based on calculating the tip for a meal.
-# The sales tax in CA is 7.25
+# The sales tax in CA is 7.00
 print('Hello')
 print('I will help you caluclate the tip for that delicious meal you just devoured :)')
 
