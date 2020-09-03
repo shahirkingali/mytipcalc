@@ -5,7 +5,7 @@ print('I will help you caluclate the tip for that delicious meal you just devour
 
 meal = float(input("Enter your meal amount: "))
 tip = int(input("Enter your tip %: "))
-tax = 0.7
+tax = 0.07
 
 # Calculations
 tip_amt = meal * tip/100
